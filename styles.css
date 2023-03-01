@@ -78,7 +78,6 @@ input:checked + .slider:before {
     height: 25px;
     width: 100px;
     border-radius: 50px;
-    align-items: center;
     box-shadow: 0 0 5px lightgray;
 }
 .web{
