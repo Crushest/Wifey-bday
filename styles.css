@@ -79,6 +79,7 @@ input:checked + .slider:before {
     width: 100px;
     border-radius: 50px;
     box-shadow: 0 0 5px lightgray;
+    line-height: 20px;
 }
 .web{
     font-size: 10px;
